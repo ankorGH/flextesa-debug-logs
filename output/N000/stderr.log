@@ -1,0 +1,4 @@
+qemu: uncaught target signal 11 (Segmentation fault) - core dumped
+Segmentation fault
+/usr/bin/cat: /tmp/genspio-check-sequence-g-176-31641--cmd-stdout-1__reset-config: No such file or directory
+/usr/bin/cat: /tmp/genspio-check-sequence-g-176-31641--cmd-stderr-1__reset-config: No such file or directory

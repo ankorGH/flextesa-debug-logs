@@ -1,0 +1,1 @@
+ARGS: config reset --config-file /tmp/mini-box/node-N000/data-dir/config.json --data-dir /tmp/mini-box/node-N000/data-dir
